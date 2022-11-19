@@ -4,9 +4,9 @@ date: 2022-07-31
 description: Introduction to Sample Post
 menu:
   sidebar:
-    name: Greeting!
+    name: 如何建立 github 靜態網站
     identifier: introduction
-    weight: 10
+    weight: 1
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
