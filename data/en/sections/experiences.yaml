@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,11 +11,30 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: NCCU, department of MIS
+    url: "https://www2.deloitte.com/tw/en/services/risk.html"
+    location: Taiwan
+    # company overview
+    overview: 
+  positions:
+  - designation: Research Assistant
+    start: Aug 2022
+    end: Nov 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Work for professor Kung Chen
+    - Research on Central Bank Digital Currency (CDBC)
+    - Preparing research notes / slides / summaries
+ 
+
+- company:
     name: Deloitte, Risk Advisory
     url: "https://www2.deloitte.com/tw/en/services/risk.html"
     location: Taiwan
     # company overview
-    overview: // Editing
+    overview:
   positions:
   - designation: Intern in Risk Advisory, Cyber and Strategy 
     start: Apr 2022
@@ -31,7 +50,7 @@ experiences:
     name: Beseye
     url: "https://www.beseye.com"
     location: Taiwan
-    overview: A Behavior Analysis Engine for All Scenarios.<br> Currently, Beseye service is widely adopted in various fields such as security, transportation, retail, factories, banks, public sites, and other private institutions, providing the best solution for different fields and industries.
+    overview: Beseye is a behavior Analysis Engine for All Scenarios.<br> Currently, Beseye service is widely adopted in various fields such as security, transportation, retail, factories, banks, public sites, and other private institutions, providing the best solution for different fields and industries.
   positions:
   - designation: Sales & Marketing Intern
     start: Nov 2020

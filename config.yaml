@@ -18,6 +18,14 @@ markup:
     endLevel: 6
     ordered: false
 
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    
 # Enable global emoji support
 enableEmoji: true
 
@@ -35,11 +43,19 @@ params:
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
+  
+  # Enable Analytics
+  analytics:
+    enabled: true
+    # Google Analytics
+    google:
+      id: G-LMJTSGMGYM
+  
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  #enableTOC: true
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
