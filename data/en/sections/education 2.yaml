@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master in Management Information System
+  icon: fa-graduation-cap
+  timeframe: 2022.09-2024.06
+  institution:
+    name: National Chengchi University
+    url: "https://www.nccu.edu.tw"
+  #grade: #(optional)
+    scale: GPA
+    achieved:
+    outOf:
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Business Data Communication (Networking)
+      achieved: 
+      outOf: 
+    - name: Convolutional Neural Networks and Visual Recognition  
+      achieved: 
+      outOf:        
+  #publications: #(optional)
+  #- title: 
+    #url: ""
+
+- name: BA in Economics
+  icon: fa-graduation-cap
+  timeframe: 2016.09-2022.01
+  institution:
+    name: National Chengchi University
+    url: "https://www.nccu.edu.tw"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.94
+    outOf: 4.3
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Data Structure
+      achieved: 4.3
+      outOf: 4.3
+    - name: Design Thinking and Artificial Intelligent
+      achieved: 4.3
+      outOf: 4.3
+    - name: Business Analysis with R
+      achieved: 3.7
+      outOf: 4.3   
+    
+

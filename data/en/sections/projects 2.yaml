@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Job Description recognize system 
+  logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "Sep 2021 - Present"
+  repo: https://github.com/peihsuanlo36/Job-Description-recognize-system # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Using Python to build up RNN / LSTM model to predict whether the JD is related with Business Analyst
+  tags: ["RNN", "LSTM", "NLP","Python"]
+
+- name: Website re-ranking in specific keyword searching 
+  #logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Sep 2021 - Present"
+  repo: https://github.com/peihsuanlo36/NCCU.DS.23
+  #url: ""
+  summary: Rerenk specific keyword in order to provide a better search engine.
+  tags: ["java", "sorting"]
+
+
