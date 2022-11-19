@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "如何建立 github 靜態網站"
 date: 2022-07-31
 description: Introduction to Sample Post
 menu:
@@ -11,6 +11,12 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. 
+## 0. 前言
+本篇文章為記錄如何完成此 github 網站的架設以及過程中所使用的資源。
+
+## References:
+- hugo: https://gohugo.io/ 
+- toha's latest version: https://github.com/hugo-toha
+- toha 實作教學: https://toha-guides.netlify.app/posts/ 
 
 
