@@ -1,3 +1,4 @@
+
 name: Deploy to Github Pages
 
 # run when a commit is pushed to "source" branch
@@ -8,7 +9,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-18.04
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v3
@@ -18,7 +19,7 @@ jobs:
     
     # install Hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2.6.0
+      uses: peaceiris/actions-hugo@v2.5.0
       with:
         hugo-version: 'latest'
         extended: true
@@ -29,7 +30,7 @@ jobs:
 
     # push the generated content into the `gh-pages` branch.
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3.9.0
+      uses: peaceiris/actions-gh-pages@v3.8.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: gh-pages
