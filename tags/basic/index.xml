@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic on Pei-Hsaun's Blog</title><link>https://hugo-toha.github.io/tags/basic/</link><description>Recent content in Basic on Pei-Hsaun's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/basic/index.xml" rel="self" type="application/rss+xml"/><item><title>World Happiness Report 分析</title><link>https://hugo-toha.github.io/posts/projects/r-progamming/rfinal-project/</link><pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate><guid>https://hugo-toha.github.io/posts/projects/r-progamming/rfinal-project/</guid><description>本分析為 &amp;lt;商業分析-R&amp;gt; 期末個人專案
-1. Introduction 本篇為介紹使用 R 作為工具分析 World happiness report。
-以下為本次分析所使用的 method:
-EDA decision tree 預計透過本資料,去分析會影響各大洲幸福指數的因素,以及將國家分成是高收入國家以及低收入國家的幸福分數分析,最後透過決策樹分析,透過現有 因素(扣除人均 GDP 的因素),去預測高收入國家抑或是低收入國家,並觀察其中的決策因素,去了解到通常高收入國家會具有的特色。
-2. Research motivation 在本學期 (109-2) 在總體經濟學課堂中老師有提及幸福指數的相關新聞,在搜尋資料時發現 Kaggle 上有整理和 World Happiness Report 相關的資料,因此決定進行相關的分析。本資料在評估幸福分數時,在 2019 年的數據中預計要討論以下六項變數,以下會針對各指數代表意義進行進一步說明。
-3. Variables 人均 GDP(GDP per capita):
-可以視為觀察各國經濟狀況、消費能力的指標
-健康平均餘命(Health life expectancy):
-代表的則是代表一個人處於完 全健康、無失能或疾病的期望歲數,可以為是一個國家的人民健康情形。
-社會支持 (Social support):
-詢問的問題為“If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not ?</description></item><item><title>如何建立 github 靜態網站</title><link>https://hugo-toha.github.io/posts/introduction/</link><pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate><guid>https://hugo-toha.github.io/posts/introduction/</guid><description>0. 前言 本篇文章為記錄如何完成此 github 網站的架設以及過程中所使用的資源。
-References: hugo: https://gohugo.io/ toha&amp;rsquo;s latest version: https://github.com/hugo-toha toha 實作教學: https://toha-guides.netlify.app/posts/</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic on Pei-Hsaun's Blog</title><link>https://hugo-toha.github.io/tags/basic/</link><description>Recent content in Basic on Pei-Hsaun's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/basic/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
