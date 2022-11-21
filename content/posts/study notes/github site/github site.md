@@ -1,7 +1,7 @@
 ---
 title: "如何建立 github 靜態網站"
 date: 2022-07-31
-hero: /images/sections/posts/hero.png
+hero: /content/posts/study notes/github site/hero.png
 description: Introduction to Sample Post
 menu:
   sidebar:
