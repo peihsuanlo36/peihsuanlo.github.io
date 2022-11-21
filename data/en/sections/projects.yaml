@@ -39,4 +39,20 @@ projects:
   summary: Rerenk specific keyword in order to provide a better search engine.
   tags: ["java", "sorting"]
 
+- name: airline satisfaction analysis
+  #logo: /images/sections/projects/tensorflow.png
+  role: Owner
+  timeline: "May 2021 - Present"
+  repo: https://github.com/peihsuanlo36/airline-satisfaction.git
+  #url: ""
+  summary: 影響航空業旅客滿意度之重要因素及滿意度預測
+  tags: ["Python", "prediction"]
 
+- name: World-happiness-report-analysis
+  #logo: /images/sections/projects/tensorflow.png
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: https://github.com/peihsuanlo36/World-happiness-report-analysis.git
+  url: "https://peihsuanlo36.github.io/posts/projects/r-progamming/r_project/"
+  summary: 影響航空業旅客滿意度之重要因素及滿意度預測
+  tags: ["R", "EDA", "decision tree"]
