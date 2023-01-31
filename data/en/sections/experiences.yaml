@@ -10,6 +10,22 @@ section:
 
 # Your experiences
 experiences:
+- company: 
+    name: Cathay Financial Holdings, Digital Data & Technology (DDT) department
+    url: "https://www.cathayholdings.com/en/holdings/csr/intro/products/innovation"
+    location: Taiwan
+    # company overview
+    overview: 
+  positions:
+  - designation: Domain Architect Intern
+    start: Jan 2023
+    end: 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Research on innovative technologies and applications by using Gartner
+    - Preparing research notes / slides / summaries
+
 - company:
     name: NCCU, department of MIS
     url: "https://www2.deloitte.com/tw/en/services/risk.html"
@@ -21,7 +37,6 @@ experiences:
     start: Aug 2022
     end: Nov 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Work for professor Kung Chen

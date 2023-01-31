@@ -26,11 +26,17 @@ degrees:
     collapseAfter: 3
     courses:
     - name: Business Data Communication (Networking)
-      achieved: 
-      outOf: 
+      achieved: 4
+      outOf: 4.3
     - name: Convolutional Neural Networks and Visual Recognition  
+      achieved: 4
+      outOf: 4.3 
+    - name: Database Management Systems  
       achieved: 
-      outOf:        
+      outOf:
+    - name: Management Science  
+      achieved: 
+      outOf:     
   #publications: #(optional)
   #- title: 
     #url: ""

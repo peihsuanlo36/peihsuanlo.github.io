@@ -16,7 +16,7 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 
-resume: "files/English Resume - 20221118.pdf"
+resume: "files/English Resume - 20230130.pdf"
 
 # a summary about you
 summary: 'Hi! My name is Sherry. I just graduated from National Chengchi University with a degree of Economics. Also, I will enroll in the graduate school of management information systems in National Chengchi University in 2022.09. I enjoy conducting business analytics and figuring out insights and solutions.'
@@ -35,9 +35,9 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 90
-  color: blue
+#- name: Leadership
+#  percentage: 90
+#  color: blue
 - name: Team Work
   percentage: 90
   color: yellow
@@ -64,4 +64,8 @@ badges:
   name: Bot Developer (Automation 360)
   url: "https://certificates.automationanywhere.com/aad4ab06-8f49-48b8-a1bd-89adea1e6974"
   badge: "certification/Bot developer.png"
+- type: certification
+  name: Google Analysis
+  url: "https://skillshop.exceedlms.com/student/award/RrCeqFQUH3BRCYNPhaOAxrmR"
+  badge: "certification/google_analysis.png"
 
