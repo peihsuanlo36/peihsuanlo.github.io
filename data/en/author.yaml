@@ -3,7 +3,7 @@ name: "Sherry Lo"
 nickname: "Sherry"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/Sherry_photo_1.png"
+image: "images/author/sherry3.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "peihsuanlo36@gmail.com"
@@ -11,6 +11,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Student in NCCU, Taiwan
+  - master student in NCCU, Taiwan
   - I love business analysis
   

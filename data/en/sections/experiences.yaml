@@ -17,14 +17,16 @@ experiences:
     # company overview
     overview: 
   positions:
-  - designation: Domain Architect Intern
+  - designation: Technology Architecture Intern
     start: Jan 2023
     end: 
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - GCP and Microservice architecture | integration study 
+    - CI/CD automation and DevOps study
     - Research on innovative technologies and applications by using Gartner
-    - Preparing research notes / slides / summaries
+    
 
 - company:
     name: NCCU, department of MIS
