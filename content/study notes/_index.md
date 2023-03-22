@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Study notes
     identifier: study-notes
-    weight: 20
+    weight: 30
 ---

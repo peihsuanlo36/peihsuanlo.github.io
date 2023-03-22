@@ -1,14 +1,14 @@
 ---
 title: "如何建立 github 靜態網站"
-date: 2022-07-31
-hero: /images/sections/posts/hero.png
+date: 2022-08-30
+hero: /content/posts/study notes/github site/hero.png
 description: Introduction to Sample Post
 menu:
   sidebar:
     name: 如何建立 github 靜態網站
     identifier: study-notes-github-site-building
     parent: study-notes
-    weight: 1
+    weight: 3
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
