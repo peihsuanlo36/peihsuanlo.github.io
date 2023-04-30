@@ -8,7 +8,7 @@ menu:
     name: What is EA ？
     identifier: what_is_EA
     parent: study-notes
-    weight: 2
+    weight: 1
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---

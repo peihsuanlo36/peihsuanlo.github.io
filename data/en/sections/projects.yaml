@@ -39,7 +39,7 @@ projects:
   summary: Rerenk specific keyword in order to provide a better search engine.
   tags: ["java", "sorting"]
 
-- name: airline satisfaction analysis
+- name: Airline satisfaction analysis
   #logo: /images/sections/projects/tensorflow.png
   role: Owner
   timeline: "May 2021 - Present"
@@ -54,5 +54,15 @@ projects:
   timeline: "May 2020 - Present"
   repo: https://github.com/peihsuanlo36/World-happiness-report-analysis.git
   url: "https://peihsuanlo36.github.io/posts/projects/r-progamming/r_project/"
-  summary: 影響航空業旅客滿意度之重要因素及滿意度預測
+  summary: |
+      本專案為介紹使用 R 作為工具分析 World happiness report。
   tags: ["R", "EDA", "decision tree"]
+
+- name: Golden Age of Video Games
+  #logo: /images/sections/projects/tensorflow.png
+  role: Owner
+  timeline: "Apr 2023 - Present"
+  repo: https://github.com/peihsuanlo36/Golden-Age-of-Video-Games.git
+  url: "https://github.com/peihsuanlo36/Golden-Age-of-Video-Games"
+  summary: Side project for SQL practicing 
+  tags: ["SQL"]
