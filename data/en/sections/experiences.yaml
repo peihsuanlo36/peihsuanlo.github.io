@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company: 
+    name: Apple
+    url: "https://www.apple.com/tw/"
+    location: Taiwan
+    # company overview
+    overview: 
+  positions:
+  - designation: Data Analyst Intern
+    start: June 2023
+    end: 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Analyze consumer electronics market size and consumer demand trends, including but not limited to smartphone, tablet, personal computer, wearables, etc.
+    - Analyze retail channel changes and support development of related route-to-market strategy, including both offline and online retail
+  
+- company: 
     name: Cathay Financial Holdings, Digital Data & Technology (DDT) department
     url: "https://www.cathayholdings.com/en/holdings/csr/intro/products/innovation"
     location: Taiwan
@@ -19,7 +35,7 @@ experiences:
   positions:
   - designation: Technology Architecture Intern
     start: Jan 2023
-    end: 
+    end: June 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # give some points about what was your responsibilities at the company.
     responsibilities:
